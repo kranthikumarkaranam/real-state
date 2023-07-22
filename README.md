@@ -2,7 +2,7 @@
 
 <br>
 
-![real-state](https://socialify.git.ci/kranthikumarkaranam/real-state/image?description=1&font=Source%20Code%20Pro&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fkranthikumarkaranam%2Freal-state%2F82ff679827aa69ae5280e7d308e4b78b7c083ace%2Fpublic%2FREADME_real-state.svg&name=1&owner=1&theme=Auto)
+![real-state](https://socialify.git.ci/kranthikumarkaranam/real-state/image?description=1&font=Source%20Code%20Pro&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fkranthikumarkaranam%2Freal-state%2F609914a3c333a71fb141296125f6e81532812d50%2Fpublic%2FREADME_real-state.svg&name=1&owner=1&theme=Auto)
 
 <p align="center" id="description" >Introducing Real State - Discover Your Perfect Home! 🏠🔍
 
