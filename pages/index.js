@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Real Estate</title>
+        <title>Real State</title>
         <meta name="description" content="Discover Your Perfect Home ;)" />
       </Head>
       <div className="relative bg-gray-white w-full flex flex-col items-center justify-start">
