@@ -26,12 +26,12 @@ Looking for the ideal place to call home? Our cutting-edge real estate applicati
 
 <br>
 
-<h3 style="text-align: center;">Home Page ➡️ <a href="https://real-state-kranthi.vercel.app/">/</a></h3>
+<h3 align="center">Home Page ➡️ <a href="https://real-state-kranthi.vercel.app/">/</a></h3>
 <img src="https://raw.githubusercontent.com/kranthikumarkaranam/real-state/main/Home.jpg" alt="project-screenshot" width="auto" height="auto">
 
 <br>
 
-<h3 style="text-align: center;">Properties Page ➡️ <a href="https://real-state-kranthi.vercel.app/properties">/properties</a></h3>
+<h3 align="center">Properties Page ➡️ <a href="https://real-state-kranthi.vercel.app/properties">/properties</a></h3>
 <img src="https://raw.githubusercontent.com/kranthikumarkaranam/real-state/main/Properties.jpg" alt="project-screenshot" width="auto" height="auto">
 
 <br>
